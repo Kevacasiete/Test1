@@ -1,7 +1,10 @@
 ---
 layout: default
 ---
-<h2> zzzzuuuiiittt </h2>
+
+# The German HCI
+
+--- 
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
@@ -16,3 +19,4 @@ layout: default
     </article>
   {% endfor %}
 </div>
+--- 
