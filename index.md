@@ -21,20 +21,15 @@ If you have questions, comments, or want to join us, please do not hesitate to c
 <d1>
  <table style="width:100%">
   <tr>
-    <th style="width:70%">Firstname</th>
+    
     <th> <img src="https://raw.githubusercontent.com/Kevacasiete/kevacasiete.github.io/master/images/CHI2022_fixed-768x1089.jpg" alt="Trulli" width="500" height="333"></th>
-    <th>Age</th>
+   
   </tr>
   <tr>
     <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+   
   </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
+ 
  </table>
  
  
