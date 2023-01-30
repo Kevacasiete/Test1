@@ -9,7 +9,7 @@ layout: default
 This year’s German Pre-CHI event will take place in Dresden on March 30-31, 2023! For more information, please visit the event website!
 
 ## About Us
-The German research community in the area of Human-Computer Interaction (HCI) is highly lively and manifold. The German HCI provides a platform for the fascinating research, the aspirating labs, and the exciting events of this community. Our roots lie in the organization of the German HCI events at the ACM CHI conference, where we invite attendees to join us for discussing and exchanging the latest of HCI research in relaxed atmosphere. In addition, we also started to support further community events within the German HCI community. {style=text-align:center}
+<div align="justify">The German research community in the area of Human-Computer Interaction (HCI) is highly lively and manifold. The German HCI provides a platform for the fascinating research, the aspirating labs, and the exciting events of this community. Our roots lie in the organization of the German HCI events at the ACM CHI conference, where we invite attendees to join us for discussing and exchanging the latest of HCI research in relaxed atmosphere. In addition, we also started to support further community events within the German HCI community. </div>
 
 If you have questions, comments, or want to join us, please do not hesitate to contact us.
 
