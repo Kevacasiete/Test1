@@ -22,7 +22,7 @@ If you have questions, comments, or want to join us, please do not hesitate to c
  <table style="width:100%">
   <tr>
     <th style="width:70%">Firstname</th>
-    <th>![alt text](https://raw.githubusercontent.com/Kevacasiete/kevacasiete.github.io/master/images/CHI2022_fixed-768x1089.jpg "Logo Title Text 1")</th>
+    <th> <img src="https://raw.githubusercontent.com/Kevacasiete/kevacasiete.github.io/master/images/CHI2022_fixed-768x1089.jpg" alt="Trulli" width="500" height="333"></th>
     <th>Age</th>
   </tr>
   <tr>
