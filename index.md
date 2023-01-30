@@ -21,7 +21,7 @@ If you have questions, comments, or want to join us, please do not hesitate to c
 <d1>
  <table style="width:100%">
   <tr>
-   <th style="width:70%"> <img src="https://raw.githubusercontent.com/Kevacasiete/kevacasiete.github.io/master/images/CHI2022_fixed-768x1089.jpg" alt="Trulli" width="300" height="500"></th>
+   <th style="width:70%"> <img src="https://raw.githubusercontent.com/Kevacasiete/kevacasiete.github.io/master/images/CHI2022_fixed-768x1089.jpg" alt="Trulli" width="300" height="500"> </th>
    <th> The 2022 CHI will be a hybrid conference, for which we will continue our tradition of the German HCI. Similar to the previous editions, we will curate this years publications from the German labs. Additionally, we provide a schedule for all talks! Feel free to catch up in our Gather.town space.  </th>
   </tr>
  </table>
