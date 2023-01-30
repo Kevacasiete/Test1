@@ -45,8 +45,8 @@ The German HCI community also organizes many different events, fostering the exc
 <td>
 <table style="width:100%">
   <tr>
-    <th>2020 Virtual German CHI Week</th>
-    <th>German Pre-CHI Event</th>
+    <th style="color:blue;">2020 Virtual German CHI Week</th>
+    <th style="color:blue;">German Pre-CHI Event</th>
    
   </tr>
   <tr>
