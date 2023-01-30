@@ -5,7 +5,7 @@ layout: default
 # The German HCI
 
 ## Spotlight
-
+![alt text](https://raw.githubusercontent.com/Kevacasiete/kevacasiete.github.io/master/images/pre-chi23_banner.jpg "Logo Title Text 1")
 This year’s German Pre-CHI event will take place in Dresden on March 30-31, 2023! For more information, please visit the event website!
 
 ## About Us
