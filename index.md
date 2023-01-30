@@ -25,8 +25,24 @@ If you have questions, comments, or want to join us, please do not hesitate to c
    <th style="height:100px"> The 2022 CHI will be a hybrid conference, for which we will continue our tradition of the German HCI. Similar to the previous editions, we will curate this years publications from the German labs. Additionally, we provide a schedule for all talks! Feel free to catch up in our Gather.town space.  </th>
   </tr>
  </table>
- </d1>
  
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  
+</table>
+
+ </d1>
+
 A list of all previous editions shows all our events since 2017.
 
 ## Community Events
