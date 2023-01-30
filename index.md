@@ -21,8 +21,12 @@ If you have questions, comments, or want to join us, please do not hesitate to c
 <d1>
  <table style="width:100%">
   <tr>
-   <th style="width:70%"> <img src="https://raw.githubusercontent.com/Kevacasiete/kevacasiete.github.io/master/images/CHI2022_fixed-768x1089.jpg" > </th>
-   <th style="height:100px"> The 2022 CHI will be a hybrid conference, for which we will continue our tradition of the German HCI. Similar to the previous editions, we will curate this years publications from the German labs. Additionally, we provide a schedule for all talks! Feel free to catch up in our Gather.town space.  </th>
+   <th> </th>
+   <th> </th>
+  </tr>
+  <tr>
+   <td><img src="https://raw.githubusercontent.com/Kevacasiete/kevacasiete.github.io/master/images/chi.jpg"> </td>
+   <td>The 2022 CHI will be a hybrid conference, for which we will continue our tradition of the German HCI. Similar to the previous editions, we will curate this years publications from the German labs. Additionally, we provide a schedule for all talks! Feel free to catch up in our Gather.town space.</td>
   </tr>
  </table>
  
