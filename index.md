@@ -19,6 +19,7 @@ If you have questions, comments, or want to join us, please do not hesitate to c
 ## 2022 Edition – New Orleans
 
 ![alt text](https://raw.githubusercontent.com/Kevacasiete/kevacasiete.github.io/master/images/chi.jpg "Chi")
+
 The 2022 CHI will be a hybrid conference, for which we will continue our tradition of the German HCI. Similar to the previous editions, we will curate this years publications from the German labs. Additionally, we provide a schedule for all talks! Feel free to catch up in our Gather.town space.
 
 <table style="width:100%">
