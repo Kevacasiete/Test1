@@ -34,9 +34,9 @@ If you have questions, comments, or want to join us, please do not hesitate to c
     <th>2019 – Glasgow</th>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Kevacasiete/kevacasiete.github.io/master/images/CHI2022_fixed-768x1089.jpg" ></td>
-    <td><img src="https://raw.githubusercontent.com/Kevacasiete/kevacasiete.github.io/master/images/CHI2022_fixed-768x1089.jpg" ></td>
-    <td><img src="https://raw.githubusercontent.com/Kevacasiete/kevacasiete.github.io/master/images/CHI2022_fixed-768x1089.jpg" ></td>
+    <td><img src="https://raw.githubusercontent.com/Kevacasiete/kevacasiete.github.io/master/images/german1.jpg" ></td>
+    <td><img src="https://raw.githubusercontent.com/Kevacasiete/kevacasiete.github.io/master/images/german2.jpg" ></td>
+    <td><img src="https://raw.githubusercontent.com/Kevacasiete/kevacasiete.github.io/master/images/german3.jpg" ></td>
   </tr>
   
 </table>
