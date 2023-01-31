@@ -21,7 +21,7 @@ If you have questions, comments, or want to join us, please do not hesitate to c
 ![alt text](https://raw.githubusercontent.com/Kevacasiete/kevacasiete.github.io/master/images/chi.jpg "Chi")
 
 The 2022 CHI will be a hybrid conference, for which we will continue our tradition of the German HCI. Similar to the previous editions, we will curate this years publications from the German labs. Additionally, we provide a schedule for all talks! Feel free to catch up in our Gather.town space.
-
+<d1>
 <table style="width:100%">
   <tr>
     <th>2021 – Yokohama</th>
@@ -43,7 +43,7 @@ A list of all previous editions shows all our events since 2017.
 ## Community Events
 The German HCI community also organizes many different events, fostering the exchange about novel ideas and concepts and extending the outreach of Human-Computer Interaction.
 
-<td>
+<d1>
 <table style="width:100%">
   <tr>
     <th style="color:blue;">2020 Virtual German CHI Week</th>
