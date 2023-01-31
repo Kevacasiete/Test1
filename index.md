@@ -61,5 +61,6 @@ The German HCI community also organizes many different events, fostering the exc
  </d1>
 
 
+{% bibliography %}
 
 
